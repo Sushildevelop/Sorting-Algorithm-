@@ -1,0 +1,26 @@
+Bubble sort
+TIME COMPLEXITY
+W.C -> O(N^2)
+A.C -> O(N^2)
+B.C -> O(N)
+INPLACE-> YES
+STABLE -> YES
+SPACE COMPLEXITY -> O(1)
+
+SELECTION SORT
+TIME COMPLEXITY
+W.C -> O(N^2)
+A.C -> O(N^2)
+B.C -> O(N^2)
+INPLACE-> YES
+STABLE -> NO
+
+Insertion Sort algorithm
+TIME COMPLEXITY
+W.C -> O(N^2)
+A.C -> O(N^2)
+B.C -> O(N)
+INPLACE-> YES
+STABLE -> YES
+SPACE COMPLEXITY -> O(1)
+
