@@ -24,3 +24,26 @@ INPLACE-> YES
 STABLE -> YES
 SPACE COMPLEXITY -> O(1)
 
+
+Merge Sort
+TIME COMPLEXITY
+W.C -> O(nlogn)
+A.C -> O(nlogn)
+B.C -> O(nlogn)
+INPLACE-> NO
+STABLE -> YES
+SPACE COMPLEXITY -> O(n)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
